@@ -1,0 +1,8 @@
+# nodes, cores, performance (cellupdates/sec)
+1  96     6.21e6
+2  192    1.21e7
+4  384    2.40e7
+8  768    4.82e7
+12 1152   7.16e7
+20 1920   1.20e8
+24 2304   1.44e8
